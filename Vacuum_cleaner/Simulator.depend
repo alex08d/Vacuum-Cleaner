@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589060348 source:d:\anul 2\sded\etapa_3\simulator\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
